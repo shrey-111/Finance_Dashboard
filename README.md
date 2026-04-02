@@ -6,8 +6,7 @@ A clean, interactive finance dashboard built as part of a **Frontend Developer I
 
 ## 🚀 Live Demo
 
-🔗 [https://finance-dashboard.vercel.app](https://finance-dashboard.vercel.app)
-
+🔗 https://sparkling-shortbread-2e2cfc.netlify.app/
 ---
 
 ## 🛠️ Setup Instructions
@@ -20,8 +19,7 @@ A clean, interactive finance dashboard built as part of a **Frontend Developer I
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/finance-dashboard.git
-
+git clone https://github.com/shrey-111/Finance_Dashboard
 # 2. Navigate into the project folder
 cd finance-dashboard
 
@@ -32,7 +30,7 @@ npm install
 npm run dev
 ```
 
-Open your browser at `http://localhost:5173`
+Open your browser at http://localhost:5174/
 
 ### Build for Production
 
@@ -150,5 +148,5 @@ The app is built with **vanilla JavaScript** using a centralized `state` object 
 ## 👩‍💻 Author
 
 **Shreya**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: https://github.com/shrey-111
+- LinkedIn: https://www.linkedin.com/in/shreya417592236/
