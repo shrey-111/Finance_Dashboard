@@ -128,7 +128,7 @@ The app is built with **vanilla JavaScript** using a centralized `state` object 
 
 | Dashboard | Transactions | Insights |
 |---|---|---|
-| Summary cards + charts | Filterable transaction table | Spending analysis + progress bars |
+| ![Dashboard](screenshots/dashboard.png.png) | ![Transactions](screenshots/transactions.png.png) | ![Insights](screenshots/insights.png.png) |
 
 ---
 
