@@ -140,7 +140,7 @@ The app is built with **vanilla JavaScript** using a centralized `state` object 
 | CSS3 | Styling, animations, layout |
 | Vanilla JavaScript | Logic, state, rendering |
 | Chart.js | Data visualizations |
-| Vite | Development server |
+| Netlify | Development & Hosting |
 | localStorage | Data persistence |
 
 ---
